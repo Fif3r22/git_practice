@@ -7,4 +7,7 @@ Why I am making this:
 * I like computers
 * GitHub looks cool
 
-There you have it, folks
+There you have it, folks.
+
+## Side Note
+My favorite food is pizza.
