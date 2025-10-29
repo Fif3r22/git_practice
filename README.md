@@ -10,4 +10,4 @@ Why I am making this:
 There you have it, folks.
 
 ## Side Note
-My favorite food is pizza.
+My favorite food is pizza. My least favorite food is mushrooms.
